@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+/.vs
+/MfcWaterEffect/x64
+/x64
